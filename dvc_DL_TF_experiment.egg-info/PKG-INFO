@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: dvc-DL-TF-experiment
+Version: 0.0.1
+Summary: A small package for dvc DL TensorFlow demo
+Home-page: https://github.com/AAZZIOUI/dvc_ml_tf
+Author: AAZZIOUI
+Author-email: anas.azzioui@gmail.com
+License: GNU
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

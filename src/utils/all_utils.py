@@ -35,7 +35,7 @@ def copy_file(source, local):
     list_of_files = os.listdir(source)
     num_of_files = len(list_of_files)
     for file in tqdm(list_of_files, total = num_of_files, desc = f"Copying file from {source} to {local}",
-                      colour="green" ):
+                      colour = "green" ):
         src = os.path.join(source,file)
         dest = os.path.join(local,file)
         shutil.copy(src,dest)

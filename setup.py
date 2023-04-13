@@ -11,10 +11,10 @@ setup(
     long_description= long_description,
     long_description_content_type = "text/markdown",
     url= "https://github.com/AAZZIOUI/dvc_ml_tf",
-    author_email="anas.azzioui@gmail.com"
+    author_email="anas.azzioui@gmail.com",
     packages=["src"],
     license= "GNU",
-    python_requires= ">=3.10",
+    python_requires= ">=3.7",
     install_requires= [
         'dvc',
         'pandas',
