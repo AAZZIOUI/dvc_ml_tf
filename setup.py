@@ -23,6 +23,6 @@ setup(
         'numpy',
         'tqdm',
         'pyYAML',
-        'boto3',
+        'boto3'
     ]
 )
