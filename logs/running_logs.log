@@ -1,0 +1,40 @@
+[2023-04-13 11:56:15,317: ERROR: stage_01_load_save: 'int' object is not callable]
+Traceback (most recent call last):
+  File "src/stage_01_load_save.py", line 39, in <module>
+    logging.INFO("stage 01 started")
+TypeError: 'int' object is not callable
+[2023-04-13 11:57:14,094: INFO: stage_01_load_save: stage 01 started]
+[2023-04-13 11:57:14,141: INFO: stage_01_load_save: stage 01 completed !! All the data are saved in local]
+[2023-04-13 12:04:15,910: INFO: stage_01_load_save: stage 01 started]
+[2023-04-13 12:04:34,221: INFO: stage_01_load_save: stage 01 completed !! All the data are saved in local]
+[2023-04-14 11:09:01,945: INFO: stage_01_load_save: >>>>>>>>>>>>>>>>>>> stage 01 started]
+[2023-04-14 11:09:01,962: INFO: all_utils: directory created at data/dog]
+[2023-04-14 11:09:09,787: INFO: all_utils: directory created at data/cat]
+[2023-04-14 11:09:16,715: INFO: stage_01_load_save: stage 01 completed !! All the data are saved in local >>>>>>>>>>>>>>>>>>]
+[2023-04-14 11:10:20,117: INFO: stage_01_load_save]: >>>>>>>>>>>>>>>>>>> stage 01 started
+[2023-04-14 11:10:20,133: INFO: all_utils]: directory created at data/dog
+[2023-04-14 11:10:28,693: INFO: all_utils]: directory created at data/cat
+[2023-04-14 11:10:41,923: INFO: stage_01_load_save]: stage 01 completed !! All the data are saved in local >>>>>>>>>>>>>>>>>>
+[2023-04-14 11:12:09,426: INFO: stage_01_load_save]: ****************************************************
+[2023-04-14 11:12:09,426: INFO: stage_01_load_save]: >>>>>>>>>>>>>>>>>>> stage 01 started
+[2023-04-14 11:12:09,447: INFO: all_utils]: directory created at data/dog
+[2023-04-14 11:12:19,299: INFO: all_utils]: directory created at data/cat
+[2023-04-14 11:12:26,345: INFO: stage_01_load_save]: stage 01 completed !! All the data are saved in local >>>>>>>>>>>>>>>>>>
+[2023-04-14 11:14:00,252: INFO: stage_01_load_save]: ****************************************************
+[2023-04-14 11:14:00,252: INFO: stage_01_load_save]: 
+ >>>>>>>>>>>>>>>>>>> stage 01 started
+[2023-04-14 11:14:00,270: INFO: all_utils]: directory created at data/dog
+[2023-04-14 11:14:08,601: INFO: all_utils]: directory created at data/cat
+[2023-04-14 11:14:13,674: INFO: stage_01_load_save]: stage 01 completed !! All the data are saved in local >>>>>>>>>>>>>>>>>>
+[2023-04-14 11:15:09,988: INFO: stage_01_load_save]: 
+
+[2023-04-14 11:15:09,988: INFO: stage_01_load_save]: >>>>>>>>>>>>>>>>>>> stage 01 started
+[2023-04-14 11:15:10,005: INFO: all_utils]: directory created at data/dog
+[2023-04-14 11:15:18,804: INFO: all_utils]: directory created at data/cat
+[2023-04-14 11:15:26,322: INFO: stage_01_load_save]: stage 01 completed !! All the data are saved in local >>>>>>>>>>>>>>>>>>
+[2023-04-14 11:15:32,315: INFO: stage_01_load_save]: 
+
+[2023-04-14 11:15:32,315: INFO: stage_01_load_save]: >>>>>>>>>>>>>>>>>>> stage 01 started
+[2023-04-14 11:15:32,332: INFO: all_utils]: directory created at data/dog
+[2023-04-14 11:15:40,888: INFO: all_utils]: directory created at data/cat
+[2023-04-14 11:15:45,776: INFO: stage_01_load_save]: stage 01 completed !! All the data are saved in local >>>>>>>>>>>>>>>>>>
